@@ -27,3 +27,8 @@
   });
 
 }());
+
+function playMusic(){
+  var music = new Audio('./chandni_raat.mp3');
+  music.play();
+  }
