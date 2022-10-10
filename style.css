@@ -35,7 +35,8 @@ body {
 
 #card-inside .wrap {
     background: #FF8800;
-    -webkit-box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
+    background-image: url("./moon-and-stars-background.jpg");
+  -webkit-box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
     -moz-box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
     box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
 }
