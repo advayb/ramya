@@ -28,7 +28,8 @@
 
 }());
 
-function playMusic(){
-  var music = new Audio('./chandni_raat.mp3');
-  music.play();
-  }
+var x = document.getElementById("myAudio"); 
+
+function playAudio() { 
+  x.play(); 
+} 
