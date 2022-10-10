@@ -90,10 +90,10 @@ p.signed {
 }
 
 #card-front {
-    background-color: #FF5555;
-    background-image: linear-gradient(top, #FF5555 0%, #FF7777 100%);
-    background-image: -moz-linear-gradient(top, #FF5555 0%, #FF7777 100%);
-    background-image: -webkit-linear-gradient(top, #FF5555 0%, #FF7777 100%);
+    background-color: #C70039;
+    background-image: linear-gradient(top, #C70039  0%, #900C3F 100%);
+    background-image: -moz-linear-gradient(top, #C70039 0%, #900C3F 100%);
+    background-image: -webkit-linear-gradient(top, #C70039 0%, #900C3F 100%);
             transform-origin: left;
        -moz-transform-origin: left;
     -webkit-transform-origin: left;
